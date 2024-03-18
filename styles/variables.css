@@ -1,0 +1,8 @@
+:root {
+    --main-bg-color:  hsl(0, 0%, 8%);
+    --container-bg-color: hsl(0, 0%, 12%);
+    --button-bg-color: hsl(0, 0%, 20%);
+    --active-state-color: hsl(75, 94%, 57%);
+    --font-color-light: hsl(0, 0%, 100%);
+    --font-color-dark:  hsl(0, 0%, 8%);
+  }
